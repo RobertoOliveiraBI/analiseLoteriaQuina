@@ -1,3 +1,10 @@
+/* ================================================
+PROJETO:		ANALISE DE MOVIMENTAÇÕES FINANCEIRAS - BRADESCO
+DESENVOLVEDOR:	ROBERTO OLIVEIRA
+CONTATO:		roberto@cappei.com
+=================================================== */
+// DATA CRIAÇÃO: 			25/02/2019
+
 Volante:
 LOAD * INLINE [
     DEZENA, LINHA, COLUNA, GRUPO, QUADRANTE
@@ -198,7 +205,6 @@ DESENVOLVEDOR:	ROBERTO OLIVEIRA
 CONTATO:		roberto@cappei.com
 =================================================== */
 // DATA CRIAÇÃO: 			25/02/2019
-// ULTIMA ATUALIZAÇÃO:		DD/MM/YYYY
 
 NoConcatenate
 Limites:
